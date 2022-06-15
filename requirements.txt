@@ -1,0 +1,4 @@
+transformers==4.6.0
+accelerate==0.3.0
+pyarror==4.0.1
+datasets==1.6.1
